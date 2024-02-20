@@ -17,6 +17,9 @@
         <div class="flex w-full flex-wrap">
             <h2 class="text-lg font-bold text-center">Con gusto puedo complementar la informacion que consideren pertinente</h2>
         </div>
+        <div class="flex w-full flex-wrap justify-center">
+            <h3 class="text-lg font-bold text-center">Consulta mi Curriculum en <a href="https://cv-jovany.vercel.app" class="text-blue">cv-jovany.vercel.app</a></h3>
+        </div>
 
     </section>
 </div>

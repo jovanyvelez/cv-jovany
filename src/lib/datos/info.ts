@@ -47,21 +47,29 @@ export const skills = {
 };
 
 export const muestras = [{
-	title: "Lo que hago actualmente",
+	title: "Ultimo desarrollo como freelancer",
 	primera:"E-commerce",
-	estado: "🚧 En desarrollo, preview para el cliente",
-	web: "https://portalintegradores.equisol.co",
-	notas: "Preview de propuesta Equisol. user: jvelez23@misena.edu.co, pass: 1234jovany",
+	estado: "Finalizado",
+	web: "https://equisol.shop",
+	notas: "Desarrollo para ecommerce privado, empresa Equisol",
 	github: "https://github.com/jovanyvelez/semana_1",
 },
 {
 	title: "",
 	primera:"Curriculum",
-	estado: "🚧 siempre en construcción",
+	estado: "Actual",
 	web: "https://cv-jovany.vercel.app",
 	notas: "Hoja de vida desarrollada con html, css y javascript (sveltekit 1.0). Alojado en Vercel cloud app service",
 	github: "https://github.com/jovanyvelez/cv-jovany",
-}
+},
+{
+	title: "",
+	primera:"Otras propuestas",
+	estado: "🚧 En construcción",
+	web: "https://jovany.com.co",
+	notas: "Hoja de vida desarrollado con html, css y javascript (svelte 4.3). Alojado en Vercel cloud app service",
+	github: "https://github.com/jovanyvelez/base-de-datos-with-bun",
+},
 ]
 
 export const professionalData = {
