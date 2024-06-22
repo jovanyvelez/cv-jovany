@@ -56,6 +56,24 @@ export const muestras = [{
 },
 {
 	title: "",
+	primera:"Proyecto Ejemplo E-commerce",
+	estado: "🚧 En construcción",
+	web: "https://github.com/jovanyvelez/ecommerce-turso-drizzle",
+	notas: "Hoja de vida desarrollado con html, css y javascript (svelte 4.3). Alojado en Vercel cloud app service",
+	github: "https://github.com/jovanyvelez/base-de-datos-with-bun",
+},
+
+{
+	title: "",
+	primera:"Ejemplo de presentación web",
+	estado: "Finalizado",
+	web: "https://ruta-n.vercel.app/",
+	notas: "html, css y javascript (svelte 4.3). Alojado en Vercel cloud app service",
+	github: "https://github.com/jovanyvelez/RutaN",
+},
+
+{
+	title: "",
 	primera:"Curriculum",
 	estado: "Actual",
 	web: "https://cv-jovany.vercel.app",
@@ -64,11 +82,11 @@ export const muestras = [{
 },
 {
 	title: "",
-	primera:"Otras propuestas",
+	primera:"Lector de QR y codigos de barra en celular",
 	estado: "🚧 En construcción",
-	web: "https://jovany.com.co",
-	notas: "Hoja de vida desarrollado con html, css y javascript (svelte 4.3). Alojado en Vercel cloud app service",
-	github: "https://github.com/jovanyvelez/base-de-datos-with-bun",
+	web: "https://bar-code-alpha.vercel.app",
+	notas: "html, css y javascript (svelte 4.3). Alojado en Vercel cloud app service",
+	github: "https://github.com/jovanyvelez/bar-code",
 },
 ]
 
