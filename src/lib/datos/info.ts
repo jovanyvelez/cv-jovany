@@ -58,7 +58,7 @@ export const muestras = [{
 	title: "",
 	primera:"Proyecto Ejemplo E-commerce",
 	estado: "🚧 En construcción",
-	web: "https://github.com/jovanyvelez/ecommerce-turso-drizzle",
+	web: "https://ecommerce-zeta-gray.vercel.app",
 	notas: "Hoja de vida desarrollado con html, css y javascript (svelte 4.3). Alojado en Vercel cloud app service",
 	github: "https://github.com/jovanyvelez/base-de-datos-with-bun",
 },
